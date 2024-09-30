@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "444135658065",
+    "project_id": "authforlibrary",
+    "storage_bucket": "authforlibrary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444135658065:android:b014d36d4318afacbede70",
+        "android_client_info": {
+          "package_name": "com.usama.Books_Reading_Library"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444135658065-1kckfg40eimp2d3hjhp4pgr2kk33h8i7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.usama.Books_Reading_Library",
+            "certificate_hash": "392974fbd8c7ff8b02f00014d9bba41893aa739e"
+          }
+        },
+        {
+          "client_id": "444135658065-ne3melg5ie0ibuamjkfikg60p3u1r99g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmpSrUhTwRxmTZvzMSaZ8BkMQ9s15i_LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444135658065-ne3melg5ie0ibuamjkfikg60p3u1r99g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

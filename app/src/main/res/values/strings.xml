@@ -1,0 +1,9 @@
+<resources>
+<string name="app_name">Firebase Flutter library</string>
+
+<string name="facebook_app_id">873111611415263</string>
+<string name="fb_login_protocol_scheme">fb873111611415263</string>
+<string name="facebook_client_token">10d351f4101a44a0f24f981affd3f49a</string>
+
+
+</resources>
